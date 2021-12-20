@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-mermaidjs-next",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A plugin for adding Mermaid to VuePress 2.X",
   "keywords": [
     "vue",
@@ -14,7 +14,7 @@
     "directory": "packages/plugins/mermaid"
   },
   "license": "MIT",
-  "author": "Renovamen <wn0x01@gmail.com>",
+  "author": "<wn0x01@gmail.com>",
   "main": "lib/node/index.js",
   "types": "lib/node/index.d.ts",
   "files": [
