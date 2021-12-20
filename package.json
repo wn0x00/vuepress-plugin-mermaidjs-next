@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Renovamen/vuepress-theme-gungnir.git",
+    "url": "git+https://github.com/wo-ni/vuepress-plugin-mermaidjs-next.git",
     "directory": "packages/plugins/mermaid"
   },
   "license": "MIT",
@@ -27,5 +27,9 @@
   },
   "dependencies": {
     "mermaid": "^8.13.4"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/wo-ni/vuepress-plugin-mermaidjs-next/issues"
+  },
+  "homepage": "https://github.com/wo-ni/vuepress-plugin-mermaidjs-next#readme"
 }
