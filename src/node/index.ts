@@ -4,7 +4,7 @@ import { mermaid } from "./markdown-it-mermaid";
 
 const mermaidPlugin = (option, app) => {
   return {
-    name: "@renovamen/vuepress-plugin-mermaid",
+    name: "vuepress-plugin-mermaidjs-next",
 
     clientAppEnhanceFiles: path.resolve(
       __dirname,
